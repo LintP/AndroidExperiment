@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginBDemo</string>
+    <string name="action_settings">Setting</string>
+    <string name="welcome_msg">HNITCSIOT</string>
+    <string name="username_msg">User</string>
+    <string name="password_msg">Pwd</string>
+    <string name="login_msg">Login</string>
+
+    <string name="username">admin</string>
+    <string name="password">admin</string>
+</resources>

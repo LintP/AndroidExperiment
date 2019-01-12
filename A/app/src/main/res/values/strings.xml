@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android实验1</string>
+    <string name="email">460852283@qq.com</string>
+
+    <string-array name="users">
+        <item>赵</item>
+        <item>钱</item>
+        <item>孙</item>
+        <item>李</item>
+        <item>张</item>
+        <item>周</item>
+        <item>吴</item>
+        <item>郑</item>
+        <item>王</item>
+        <item>zhang</item>
+        <item>zhao</item>
+    </string-array>
+</resources>
